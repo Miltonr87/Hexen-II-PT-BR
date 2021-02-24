@@ -1,7 +1,7 @@
 ### Hexen II (pt-br)
 Tradução do jogo Hexen II e command line tool.
 
-O arquivo em .bat visa gerenciar as versões Vanilla de Hexen II e a sua expansão Portal of Praevus. Ademais arquivos não foram adicionados por questões ser software proprietário da Raven Software.
+O arquivo em .bat visa gerenciar as versões Vanilla de Hexen II e a sua expansão Portal of Praevus. Ademais arquivos não foram adicionados por licença de software proprietário da Raven Software.
 
 ### Porta para ser usada
 
