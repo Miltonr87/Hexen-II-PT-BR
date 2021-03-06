@@ -1,0 +1,65 @@
+Encontre o Salao dos Mortos
+Encontre o Calice de Sao Eric
+Pegue a Chave do Mago na Taverna
+Va para a Fortaleza do Duque
+Pegue a Lingua de Dragao do Laboratorio de Razumen na cidade
+Ganhe entrada para as catacumbas
+Encontre a chave cruzada na Tumba do Guerreiro
+Investigue a Tumba do Rei
+Encontre a nascente que leva ao poco da aldeia
+Leve a Esfera da Ordem para o Transporte Taumaturgico
+Pegue a Esfera da Ordem da Sala do Trono de Eidolon
+Encontre a Casa de Razumen. Ele deveria estar por la
+Leve a Chave do Mago para o Laboratorio de Razumen
+Pegue o Pergaminho de Encantamento nos Quarteiroes do Castelo de Razumen
+Leve o Pergaminho de Encantamento para a Balista perto do campo magico
+Pegue o selo do duque completando a pocao
+Pegue o selo do duque completando a pocao na proxima sala
+Leve o Selo do Duque para o armario trancado
+Leve a Lingua do Dragao para os Quarteiroes do Castelo de Razumen
+Leve o Calice de Sao Eric para o Altar dos Quatro Reis
+Pegue a chave cruzada para a fechadura cruzada
+[------------------------]
+Use o Orbe de Dakini no templo para quebrar o gelo no lago congelado
+Pegue a Adaga Ajanti na sala de reunioes nas Cavernas de Gelo
+Leve a Adaga Ajanti para os Portoes de Tulku
+Pegue o Buda de Jade das Cavernas de Gelo
+Leve o Buda de Jade ao local de oferendas no Templo Falso
+Voce precisa da Pedra de Seldoot que está trancada na Sala de Armazenamento
+Leve a Pedra de Seldoot para a sala do Caldeirao
+Voce precisa encontrar a chave de Tien
+A chave de Tien tem multiplos usos
+Pegue o cajado do Imperador Lo Pan da sala de oferendas
+Leve a equipe do Imperador Lo Pan ao Sacrario Arcano
+Pegue a sexta Roda de Oração na Sala Simbolica de Kalachakra
+Faca a sexta roda de oração para o caminho das rodas
+Pegue a joia de Buda parando a roda do tempo
+Ofereca a joia de Buda para Shiva
+Obtenha os Olhos de Buda seguindo o caminho invisivel
+Use os Olhos de Buda para ver o guardiao do portal
+Pegue a Gema da Sangha de seu local de descanso
+Traga a Gema da Sangha para o guardiao do portal
+Ofereça a Joia da Sangha para Shiva
+Obtenha o oleo de unguento das camaras de invocacao
+Leve o oleo de unguento para a piscina de limpeza
+Pegue o Incenso da Iluminacao da Camara de Suplica Oculta
+Use o Incenso da Iluminacao nas Camaras de Invocacao
+Entre na Coluna de Fogo
+Prepare seu corpo para a jornada pela morte e renascimento
+Ofereça a Joia do Dharma a Shiva
+Para passar pelos Guardioes nas Camaras Internas, voce deve usar o Cetro Vajra e o Sino de Ghanta
+Ganhe entrada para o Santuario Interno de Praevus
+Encontre uma maneira de retornar aos Portoes de Tulku
+A saida para o Falso Templo fica atras do Grande Buda
+Evite armadilhas invisiveis enquanto faz seu caminho para o Templo Principal
+Conclua as tres provas para continuar em sua jornada em direcao a Praevus
+Para pesquisar o resto do Palacio, voce deve primeiro adquirir a Chave do Imperador
+A Chave do Imperador permitira que você passe pelo Portal da Nobreza
+Encontre o Cetro Vajra em uma parte anterior do Palácio
+O Sino de Ghanta esta próximo ...
+Para iniciar sua jornada em direcao a Praevus, voce deve ganhar entrada para o Templo Falso
+60
+61
+62
+Matar e Mutilar
+
