@@ -1,0 +1,79 @@
+78
+lens Lentes para Ver Magia
+takey Chave do Alfaiate
+trkey Chave do Tesouro
+shovl Pa para Cavar
+sand Monte de Areia
+stkey Chave do Estabulo
+glass Conta de Vidro
+scrol Pergaminho Magico de Disrupcao
+amult Amuleto da Fome
+mithl Transmutacao Mithral
+cskey Chave do Castelo
+keep1 Ossos do Rei Loric
+keep3 Chave do Moinho
+keep2 Po de Ossos
+staff Bastao de Nefertum
+lcrwn Coroa Inferior do Egito
+ucrwn Coroa Superior do Egito
+ankey Chave de Anubis
+eyeh Olho de Horus
+e3 Jarro Canopico de Imsethy
+s2 Chave do Guardiao
+rcjem Gema de Corte Bruto
+e6 Jarro Canopico de Qebhsenudr
+e1 Chave do Farao
+rakey Chave de RA
+stime Escaravelho do Tempo
+scept Cetro do Farao Sombrio
+e5 Jarro Canopico de Duamutef
+e4 Jarro Canopico de Hapy
+speye Gema do Olho da Serpente
+gsphere Esfera de Ouro
+prybar Pe de Cabra
+music Folha de Composicao Musical
+cross Reliquia Sagrada Contaminada
+holycrss Reliquia Sagrada Restaurada
+m1 Chave de Pedra Ornamental
+m2 Caveira de Cristal
+m3 Caveira de Jade
+m4 Coração de Serpente
+fire Elemento de Fogo
+air Elemento do Ar
+water Elemento da Agua
+earth Elemento da Terra
+r1 Barra de Ouro
+silver Barra de Prata
+r2 Cristal sem Energia
+r3 Coroa dos Reis
+r4 Cetro de Diamente
+r5 Cristal Poderoso
+r6 Pedra-do-Vazio
+r7 Pedra-do-Sol
+r8 Pedra-das-Sombras
+soul Chave da Alma
+mage Tomo do Magico
+chalice Calice de Sao Eric
+mask Mascara de Enterro do Rei Lazarus
+dagger Adaga Ajanti
+vial Oleo de Uncao
+goldgem Joia de Buda
+greengem Gema Sangha
+redgem Joia do Dharma
+lbudda Buda de Jade
+dtongue Jarra da Lingua do Dragao
+scroll Pergaminho de Encantamento
+dukeseal Selo do Duque
+prayer2 Roda de Oracao
+crosskey Chave da Cruz
+headkey Cajado do Imperador Lo Pan
+tbtmask Olhos de Buda
+scepter Cetro de Vajra
+orb Orbe de Dakini
+magekey Chave do Mago
+tienkey Chave de Tien
+incense Incenso da Iluminacao
+tbtkey Chave do Imperador
+orb2 Esfera de Ordem
+bell Sino de Ghanta
+stonet Pedra de Seldoot
