@@ -10,7 +10,7 @@ O arquivo em .bat visa gerenciar as vers√µes Vanilla de Hexen II e a sua expans√
 - [Hammer of Thyrion](https://github.com/sezero/uhexen2) (Open Source Mod)
 
 
-### Baixe o Jogo
+### Compre o Jogo
 
 - [Steam](https://store.steampowered.com/app/9060/HeXen_II/)
 - [GoG](https://www.gog.com/game/hexen_ii/)
